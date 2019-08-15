@@ -16,6 +16,7 @@ sudo -H pip3 install --upgrade pip
 sudo -H pip3 install virtualenv
 mkdir ~/myprojectdir
 cd ~/myprojectdir
+wget https://github.com/eerolat/techila-jupyter-notebook-wizard/raw/master/Install_and_Test_Techila.ipynb
 virtualenv myprojectenv
 source myprojectenv/bin/activate
 pip install --user jupyter
