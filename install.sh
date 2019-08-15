@@ -6,7 +6,7 @@
 echo '==== This script will install Jupyter Notebook'
 echo '==== on your Debian 9 or Ubuntu 18.03 LTS Linux.'
 echo '==== Jupyter Notebook will be launched automatically'
-echo '==== when the installation is complete..'
+echo '==== when the installation is complete.'
 echo '===='
 
 
